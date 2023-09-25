@@ -69,6 +69,7 @@ body{
 .submit{
     height: 40px;
     width: 100%;
+    border: none;
     border-radius: 50px;
     letter-spacing: 3px;
     font-weight: 700;
